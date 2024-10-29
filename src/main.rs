@@ -80,7 +80,7 @@ async fn roll(
 #[tokio::main]
 async fn main() {
     //let token = std::env::var("DISCORD_TOKEN").expect("missing DISCORD_TOKEN");
-    let token = "MTI5NTg0NzE1NzcwNTg3MTM2MA.G0b0wa.6PM-wyzXFej_UH7HAfjpmir4FxCDmBpBgKGaOI";
+    let token = std::fs::read_to_string("TOKEN").expect("missing TOKEN");
     let intents = serenity::GatewayIntents::all();
 
     let framework = poise::Framework::builder()
@@ -92,7 +92,7 @@ async fn main() {
         .setup(|ctx, _ready, framework| {
             Box::pin(async move {
                 poise::builtins::register_globally(ctx, &framework.options().commands).await?;
-                Ok(Data {})
+                Ok(Data {initiatives: Initiative::new()})
             })
         })
         .build();
