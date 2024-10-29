@@ -1,0 +1,11 @@
+/home/lynx/Documents/programming/rust/dnd_bot/roll/target/debug/deps/liblrtable-b5d21ed7493d0702.rmeta: /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/mod.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/itemset.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/pager.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/stategraph.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/statetable.rs
+
+/home/lynx/Documents/programming/rust/dnd_bot/roll/target/debug/deps/liblrtable-b5d21ed7493d0702.rlib: /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/mod.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/itemset.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/pager.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/stategraph.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/statetable.rs
+
+/home/lynx/Documents/programming/rust/dnd_bot/roll/target/debug/deps/lrtable-b5d21ed7493d0702.d: /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/mod.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/itemset.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/pager.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/stategraph.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/statetable.rs
+
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/mod.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/itemset.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/pager.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/stategraph.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lrtable-0.13.7/src/lib/statetable.rs:

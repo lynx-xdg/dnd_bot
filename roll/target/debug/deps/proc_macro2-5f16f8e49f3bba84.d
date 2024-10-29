@@ -1,0 +1,12 @@
+/home/lynx/Documents/programming/rust/dnd_bot/roll/target/debug/deps/libproc_macro2-5f16f8e49f3bba84.rmeta: /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/lib.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/marker.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/parse.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/rcvec.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/detection.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/fallback.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/extra.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/wrapper.rs
+
+/home/lynx/Documents/programming/rust/dnd_bot/roll/target/debug/deps/proc_macro2-5f16f8e49f3bba84.d: /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/lib.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/marker.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/parse.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/rcvec.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/detection.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/fallback.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/extra.rs /home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/wrapper.rs
+
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/lib.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/marker.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/parse.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/rcvec.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/detection.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/fallback.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/extra.rs:
+/home/lynx/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.89/src/wrapper.rs:
