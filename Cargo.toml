@@ -8,4 +8,4 @@ poise = "0.6.1"
 rand = "0.8.5"
 serenity = "0.12"
 tokio = { version = "1.21.2", features = ["macros", "rt-multi-thread"] }
-roll = { path = "./roll"}
+sdi = { git = "https://github.com/lynx-xdg/sdi.git" }
